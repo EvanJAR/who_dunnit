@@ -18,4 +18,4 @@ const scenario = {
   const verdict = declareWeapon();
   console.log(verdict);
 
-//   At first I thought there would be an error. But then it would seem that you can change the individual elements in the scenario object.
+//   At first I thought there would be an error. But then it would seem that you can change the individual elements in the scenario object. So the answer would be "The weapon is the Revolver"
